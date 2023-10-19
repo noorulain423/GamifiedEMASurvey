@@ -1,0 +1,5 @@
+Its a gamified EMA application. 
+PSS4 and PSS10 questionnaires are used to measure stress. 
+Recall biasness algorithm is designed to remove the biasness from the users' responses. This application tracks the footstep, location, and screen time of the user 
+and shows it to the user whenever they fill in responses. This information is used to reduce the recall biases in the responses.
+Gamification elements, i.e., mini-game (jumping through stones), leaderboard, scores, continuous feedback, and progress map etc are used.
