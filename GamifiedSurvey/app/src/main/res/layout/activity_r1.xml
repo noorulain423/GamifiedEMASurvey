@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".R1"
+    android:background="@drawable/nwater1">
+
+
+    <ImageView
+        android:id="@+id/avtQ"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="1dp"
+        android:layout_marginBottom="405dp"
+        android:contentDescription="@string/todo"
+        app:srcCompat="@drawable/avtnew" />
+
+    <Button
+        android:id="@+id/btno0"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="334dp"
+        android:layout_marginBottom="272dp"
+        android:background="@drawable/stone"
+        android:text="@string/o0"
+        android:textColor="@color/black" />
+
+    <Button
+        android:id="@+id/btno01"
+        android:layout_width="114dp"
+        android:layout_height="60dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="274dp"
+        android:layout_marginBottom="161dp"
+        android:background="@drawable/stone"
+        android:text="@string/o1"
+        android:textColor="@color/black" />
+
+    <Button
+        android:id="@+id/btno02"
+        android:layout_width="104dp"
+        android:layout_height="59dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="167dp"
+        android:layout_marginBottom="94dp"
+        android:background="@drawable/stone"
+        android:text="@string/o2"
+        android:textColor="@color/black" />
+
+    <Button
+        android:id="@+id/btno03"
+        android:layout_width="wrap_content"
+        android:layout_height="82dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="59dp"
+        android:layout_marginBottom="142dp"
+        android:background="@drawable/stone"
+        android:text="@string/o3"
+        android:textColor="@color/black" />
+
+    <Button
+        android:id="@+id/btno04"
+        android:layout_width="101dp"
+        android:layout_height="64dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="1dp"
+        android:layout_marginBottom="263dp"
+        android:background="@drawable/stone"
+        android:text="@string/o4"
+        android:textColor="@color/black" />
+
+    <ImageView
+        android:id="@+id/stAvt"
+        android:layout_width="55dp"
+        android:layout_height="97dp"
+        android:layout_above="@+id/btno02"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="186dp"
+        android:layout_marginBottom="-6dp"
+        android:contentDescription="@string/todo"
+        android:visibility="invisible"
+        app:srcCompat="@drawable/avt" />
+
+    <TextView
+        android:id="@+id/tvq"
+        android:layout_width="175dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="108dp"
+        android:layout_marginTop="49dp"
+        android:layout_marginEnd="129dp"
+        android:layout_marginBottom="570dp"
+        android:text="@string/Q1"
+        android:textColor="@color/black"
+        android:textSize="15sp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/avtAlmost"
+        android:layout_width="72dp"
+        android:layout_height="98dp"
+        android:layout_above="@+id/btno01"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="249dp"
+        android:layout_marginBottom="-11dp"
+        android:contentDescription="@string/todo"
+        app:srcCompat="@drawable/avt" />
+
+    <ImageView
+        android:id="@+id/n_avt"
+        android:layout_width="wrap_content"
+        android:layout_height="90dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="316dp"
+        android:layout_marginBottom="311dp"
+        android:contentDescription="@string/todo"
+        app:srcCompat="@drawable/avt" />
+
+    <ImageView
+        android:id="@+id/fairly_avt"
+        android:layout_width="59dp"
+        android:layout_height="92dp"
+        android:layout_above="@+id/btno03"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="95dp"
+        android:layout_marginBottom="-8dp"
+        android:contentDescription="@string/todo"
+        app:srcCompat="@drawable/avt" />
+
+    <ImageView
+        android:id="@+id/v_oft_avt"
+        android:layout_width="62dp"
+        android:layout_height="111dp"
+        android:layout_above="@+id/btno04"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="22dp"
+        android:layout_marginBottom="-24dp"
+        android:contentDescription="@string/todo"
+        app:srcCompat="@drawable/avt" />
+
+    <ImageView
+        android:id="@+id/imageView18"
+        android:layout_width="195dp"
+        android:layout_height="209dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="597dp"
+        android:layout_marginEnd="262dp"
+        android:layout_marginBottom="-75dp"
+        app:srcCompat="@drawable/ice" />
+
+    <ImageView
+        android:id="@+id/imageView19"
+        android:layout_width="195dp"
+        android:layout_height="122dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="0dp"
+        android:layout_marginBottom="-22dp"
+        app:srcCompat="@drawable/ice" />
+
+
+</RelativeLayout>

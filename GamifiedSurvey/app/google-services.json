@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "81934111992",
+    "firebase_url": "https://gamifiedsurvey-3e127-default-rtdb.firebaseio.com",
+    "project_id": "gamifiedsurvey-3e127",
+    "storage_bucket": "gamifiedsurvey-3e127.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81934111992:android:8349a560972d3ac357170d",
+        "android_client_info": {
+          "package_name": "com.example.gamifiedsurvey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81934111992-794tbvjtrt04ocq2nrgkq5j0817olqvt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvBujr9ndoS6nS45KcNKklYgEN_pkiXr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81934111992-794tbvjtrt04ocq2nrgkq5j0817olqvt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

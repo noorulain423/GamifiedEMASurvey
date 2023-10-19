@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">GamifiedSurvey</string>
+    <string name="start_survey">StartSurvey</string>
+    <string name="hintname">Enter your Name</string>
+    <string name="enter_your_name">Enter your Age</string>
+    <string name="enter_your_email">Enter your Email</string>
+    <string name="john_gmail_com">john@gmail.com</string>
+    <string name="profession">Profession</string>
+    <string name="prof_hint">Student/Engineer/Developer</string>
+    <string name="enter_your_age">Enter you Age</string>
+    <string name="hint_age">23</string>
+    <string name="set_notification_time">Set Notification Time</string>
+    <string name="hint_time">20:00</string>
+    <string name="save_settings">Save Settings</string>
+    <string name="todo">TODO</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="StartSurvey">Start Survey</string>
+    <string name="title_activity_main">main_activity</string>
+    <string name="msg">Help ME! Reach to the iceland by answering the following question...</string>
+
+    <string name="Q1">In last 6 days, how often have you been upset because of something happened unexpectedly?</string>
+    <string name="Q2">In last 6 days, how often have you felt that you were unable to control important things in your life?</string>
+    <string name="Q3">In last 6 days, how often have you felt nervous and stressed?</string>
+    <string name="Q4">In last 6 days, how often have you felt confident about your ability to handle your personal problems?</string>
+    <string name="Q5">In last 6 days, how often have you felt that things going your way?</string>
+    <string name="Q6">In last 6 days, how often have you found that you could not cope with all the things that you had to do?</string>
+    <string name="Q7">In last 6 days, how often have you been able to control irritations in your life?</string>
+    <string name="Q8">In last 6 days, how often have you felt that you were on top of things?</string>
+    <string name="Q9">In last 6 days, how often have you been angered because of things that happened that were outside of your control?</string>
+    <string name="Q10">In last 6 days, how often have you felt difficulties were piling up so high that you could not overcome them?</string>
+
+    <string name="Q22">In last 24 hours, how often have you felt that you were unable to control important things in your life?</string>
+    <string name="Q44">In last 24 hours, how often have you felt confident about your ability to handle your personal problems?</string>
+    <string name="Q55">In last 24 hours, how often have you felt that things going your way?</string>
+    <string name="Q110">In last 24 hours, how often have you felt difficulties were piling up so high that you could not overcome them?</string>
+
+    <string name="o0"> Never </string>
+    <string name="o1"> Almost Never </string>
+    <string name="o2"> Sometimes </string>
+    <string name="o3"> Fairly Often </string>
+    <string name="o4"> Very Often </string>
+    <string name="todo1">TODO</string>
+    <string name="todoq">TODO</string>
+    <string name="name">Name</string>
+    <string name="scores">Scores</string>
+    <string name="to_stay_on_top_of_the_leaderboard_play_more_rounds_by_answering_the_questions">To Stay on top of the leader board, Play more rounds by answering the questions</string>
+    <string name="title_activity_settings">settings</string>
+    <string name="open_app_usage_setting">Open Apps with usage access settings</string>
+    <string name="last_time_used">"Last time used: "</string>
+    <string name="time_span">"Time span: "</string>
+
+    <string name="display_order_text">Sort by:</string>
+    <string name="app_name_label">App</string>
+    <string name="last_time_used_label">Last time used</string>
+    <!-- label for usage time -->
+    <string name="usage_time_label">Usage time</string>
+    <string name="name_total_score_rank">  Name       Total       Score Rank</string>
+    <string name="leaderboard">Leader Board</string>
+    <string name="elevated_quantity_and_quality_of_ema_responses_via_gamification">Elevated Quantity and Quality of EMA Responses via Gamification</string>
+    <string name="theses">Perceived Stress Measuring EMA application.         Especially designed for EMA research study.         MS thesis 2020-21</string>
+    <!-- Preference Titles -->
+</resources>
